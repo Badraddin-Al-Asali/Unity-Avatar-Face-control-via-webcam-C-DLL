@@ -1,0 +1,10 @@
+﻿  Dll2.cpp
+c:\users\andy badman\source\repos\dll2\dll2\dll2.cpp(296): warning C4101: 'e': unreferenced local variable
+c:\users\andy badman\source\repos\dll2\dll2\dll2.cpp(370): warning C4101: 'e': unreferenced local variable
+     Creating library C:\Users\Andy BadMan\source\repos\Dll2\x64\Release\Dll2.lib and object C:\Users\Andy BadMan\source\repos\Dll2\x64\Release\Dll2.exp
+  Generating code
+  2 of 11558 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dll2.vcxproj -> C:\Users\Andy BadMan\source\repos\Dll2\x64\Release\Dll2.dll
